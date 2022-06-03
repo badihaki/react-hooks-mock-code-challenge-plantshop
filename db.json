@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bird of Paradise",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1627652416-Bird-of-Paradise_746d55b281d8490f984a352470e4764e.jpg?crop=1.00xw:1xh;center,top&resize=768:*",
+      "price": "233",
+      "id": 8
     }
   ]
 }
